@@ -1,0 +1,25 @@
+/* 03-animation-paragraph.css */
+
+p {
+  font-size: 3em;
+  color: #0074d9;
+
+  animation-duration: 3s;
+  animation-name: slidein;
+}
+
+/* Animation slidein */
+
+/*
+@keyframes slidein {
+  from {
+    margin-left: 100%;
+    width: 300%;
+  }
+
+  to {
+    margin-left: 0%;
+    width: 300%;
+  }
+}
+*/
